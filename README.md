@@ -27,4 +27,5 @@ I cant test most of them due to money and age restrictions. If you got issues, c
 **Email:** Blake_Brent@outlook.com
 
 **Note:** I rarely check my email. Discord is the best and probably the only way to contact me. I just like listing the email to make me look more "professional".
+
 **Note Number 2:** The server invite and profile are clickable to open a link to the invite/profile, just letting you know just in case you new around here.
