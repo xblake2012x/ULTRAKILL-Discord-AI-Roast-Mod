@@ -4,6 +4,8 @@ This mod has one purpose in life:
 
 To make sure you know you suck by roasting you every time you die.
 
+**ThunderStore Listing:** [Discord_Roast](https://thunderstore.io/c/ultrakill/p/xBlake_2012x/Discord_Roast/)
+
 **NOTE:** This mod uses AI. If you don't like AI, this mod probably isn't for you.
 
 ## Supported AI Providers
