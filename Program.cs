@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -20,7 +20,7 @@ namespace AIRoastMod
     [BepInPlugin(
         "xblake_2012x.ultrakill.airoasting",
         "Discord AI Roast",
-        "1.0.0"
+        "1.0.1"
     )]
     [BepInDependency(
         "dev.flazhik.ukenemyidentifier"
@@ -53,7 +53,7 @@ namespace AIRoastMod
                 config.SetIconWithURL(iconPath);
             }
 
-            ApiKey = new StringField(config.rootPanel, "API Key", "apikey", "", true);
+            ApiKey = new StringField(config.rootPanel, "API Key", "apikey", "", true, false);
             WebhookURL = new StringField(config.rootPanel, "WebHook", "webhook", "", true);
             ModelName = new StringField(config.rootPanel, "Model", "model", "openai/gpt-oss-120b");
             PromptAddition = new StringField(config.rootPanel, "Prompt Additions", "prompt", "", true);
