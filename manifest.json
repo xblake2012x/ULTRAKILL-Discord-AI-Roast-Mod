@@ -1,7 +1,7 @@
 {
     "name": "Discord Roast",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/eternalUnion/UKPluginConfigurator",
+    "website_url": "https://github.com/xblake2012x/ULTRAKILL-Discord-AI-Roast-Mod",
     "description": "Roasts the player using AI when they die",
     "dependencies": [
 		"BepInEx-BepInExPack-5.4.2304",
